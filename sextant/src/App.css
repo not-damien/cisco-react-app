@@ -1,3 +1,22 @@
+
+/*
+color palette
+https://coolors.co/palette/9b5de5-f15bb5-fee440-00bbf9-00f5d4
+*/
+
+h1 {
+  font-size: 72px;
+  background-clip: text;
+  background: -webkit-linear-gradient(#00f5d4, #00bbf9);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.exhibit{
+  max-width: max-content;
+  border: #282c34 solid;
+}
+
 .App {
   text-align: center;
 }
